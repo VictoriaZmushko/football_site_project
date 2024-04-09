@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: medium;
+}
+
+/* Style the header. */
+header {
+    background-color: #5c33a8;
+    padding: 30px;
+    text-align: center;
+    font-size: 45px;
+    color: rgb(60, 216, 169);
+}
+
+section {
+    display: flex;
+}
+
+/* Style the articles. */
+article {
+    flex: 2;
+    background: #612a8f;
+    padding: 30px;
+}
+
+/* Style the navigation menu. */
+nav {
+    flex: 1;
+    background: #724a92;
+    padding: 30px;
+    font-size: large;
+}
+
+nav ul {
+    color:  #d164b0;
+    padding: 30px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+/* Style the footer. */
+footer {
+    background-color: #3bada8;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
