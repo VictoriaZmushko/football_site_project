@@ -52,7 +52,7 @@ footer {
 
 a:link,
 a:visited {
-    background-color: coral;
+    background-color: rgb(243, 88, 209);
     color: beige;
     border: 2px solid rgb(60, 216, 169);
     padding: 10px 20px;
