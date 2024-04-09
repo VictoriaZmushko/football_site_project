@@ -49,3 +49,21 @@ footer {
     text-align: center;
     color: white;
 }
+
+a:link,
+a:visited {
+    background-color: coral;
+    color: beige;
+    border: 2px solid rgb(60, 216, 169);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+}
+
+a:hover,
+a:active {
+    background-color: rgb(60, 216, 169);
+    color: beige;
+}
